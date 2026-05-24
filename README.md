@@ -277,9 +277,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**Your Name**  
-📧 your.email@example.com  
-🔗 [GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+UBAIDULLAH WAHEED
+📧 ubaidullahwaheed685@gmail.com  
+🔗 [GitHub](https://github.com/UbaidullahWaheed) · [LinkedIn](https://linkedin.com/in/Ubaidullah_Waheed)
 
 ---
 
